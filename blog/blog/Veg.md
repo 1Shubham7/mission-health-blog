@@ -2,7 +2,7 @@
 slug: first-blog-post
 title: Embracing Wellness: "The Profound Importance of Good Health"
 authors:
-  name: "Vegand Bhadwa"
+  name: "Vegand "
   title: "Docusaurus Core Team"
   url: https://github.com/1shubham7
   image_url: https://github.com/wgao19.png
