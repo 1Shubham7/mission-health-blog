@@ -1,12 +1,12 @@
 ---
-slug: long-blog-post
-title: Long Blog Post
+slug: yes
+title: Inspiring Stories
 authors: endi
 tags: [hello, docusaurus]
 ---
 
 ## Embracing Wellness: The Profound Importance of Good Health
-(by Vegand Bhadwa)
+(by Vegand)
 
 ### Introduction:
 In the hustle and bustle of our daily lives, it's easy to overlook the cornerstone of a fulfilling existence – good health. The significance of maintaining a healthy lifestyle cannot be overstated, as it forms the foundation upon which we build our aspirations, relationships, and overall well-being. In this blog, we'll delve into the profound importance of good health and explore the transformative impact it can have on every aspect of our lives.
